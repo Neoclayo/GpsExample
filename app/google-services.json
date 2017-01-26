@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1033519086316",
+    "project_id": "totemic-access-156001"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033519086316:android:eccc299665f11200",
+        "android_client_info": {
+          "package_name": "com.example.hyalus.gpsexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033519086316-kemnfutu90ocsnus0acr6gqukq3uas6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hyalus.gpsexample",
+            "certificate_hash": "F3E801077ED00DBE0508F2B97226809E3C750C7C"
+          }
+        },
+        {
+          "client_id": "1033519086316-d68k7iko9d1n728ahlsf6um6dd296lpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7bbmbr1fvAQ36bbh9VrBmytO1BlP1tcg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
